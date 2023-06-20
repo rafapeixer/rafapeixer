@@ -5,3 +5,14 @@
 - 🤔 I’m looking for help with to learn
 - 💬 Ask me about changing careers at age 37
 
+[![rafapeixer GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapeixer)](https://github.com/rafapeixer/github-readme-stats)
+
+##
+
+<div> 
+  <a href="https://instagram.com/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@rafapeixer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://discord.gg/@rafapeixer#4684" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  </div>
