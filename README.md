@@ -5,9 +5,8 @@
 - 🤔 I’m looking for help with to learn
 - 💬 Ask me about changing careers at age 37
 
-[![rafapeixer GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapeixer)](https://github.com/rafapeixer/github-readme-stats)
-
-##
+![rafapeixer GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapeixer&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafapeixer&layout=compact&langs_count=8&theme=dark)
 
 <div> 
   <a href="https://instagram.com/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
