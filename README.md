@@ -1,4 +1,4 @@
-### Hello, I’m Rafael Peixer 👋
+### oi meu nome é rafael peixer
 
 [![Blog](https://img.shields.io/website?label=rafaelpeixer.com.br&style=for-the-badge&url=https://rafaelpeixer.com.br/)](https://rafaelpeixer.com.br)
 <a href="https://www.youtube.com/@rafapeixer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
 ![rafapeixer GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapeixer&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafapeixer&layout=compact&langs_count=8&theme=dark)
 
-### Technologies I use in my day
+### tecnologias que aprendi em 2023
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,7 +18,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-### Technologies I want to learn in 2023
+### tecnologias que eu quero aprender em 2023
 
 <div>
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
