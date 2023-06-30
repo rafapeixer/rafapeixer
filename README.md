@@ -6,7 +6,6 @@
 <a href="https://instagram.com/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
 ![rafapeixer GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapeixer&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafapeixer&layout=compact&langs_count=8&theme=dark)
 
@@ -25,3 +24,19 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+
+###
+
+<details>
+<p align="center">
+  <a href="https://github.com/rafapeixer">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafapeixer&theme=dark" />
+  </a>
+  <a href="https://github.com/rafapeixer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafapeixer&hide_border=true&card_width=338&theme=dark" />
+  </a>
+  <a href="https://github.com/rafapeixer">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafapeixer&theme=dark" />
+  </a>
+</p>
+</details>
