@@ -3,25 +3,26 @@
 
 [![Blog](https://img.shields.io/website?label=rafaelpeixer.com.br&style=for-the-badge&url=https://rafaelpeixer.com.br/)](https://rafaelpeixer.com.br)
 <a href="https://www.youtube.com/@rafapeixer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.twitter.com/rafapeixer" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+
 
 <p align="left">
  <a href="https://github.com/rafapeixer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafapeixer&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafapeixer&theme=transparent" />
   </a>  
   <a href="https://github.com/rafapeixer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafapeixer&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafapeixer&theme=transparent" />
   </a>
     <a href="https://github.com/rafapeixer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafapeixer&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafapeixer&theme=transparent" />
   </a>
   <a href="https://github.com/rafapeixer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafapeixer&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafapeixer&theme=transparent" />
   </a>
   <a href="https://github.com/rafapeixer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafapeixer&theme=aura&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafapeixer&theme=transparent&utcOffset=8" />
   </a>
 </p>
 
@@ -32,7 +33,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  </div><br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapeixer&layout=compact&langs_count=8&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapeixer&layout=compact&langs_count=8&theme=transparent" />
 
 
 ### tecnologias que eu quero aprender...
