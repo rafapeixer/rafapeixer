@@ -1,4 +1,5 @@
 ### oi meu nome é rafael peixer
+### Cursando Engenharia de software
 
 [![Blog](https://img.shields.io/website?label=rafaelpeixer.com.br&style=for-the-badge&url=https://rafaelpeixer.com.br/)](https://rafaelpeixer.com.br)
 <a href="https://www.youtube.com/@rafapeixer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
