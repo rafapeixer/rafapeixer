@@ -19,3 +19,8 @@ Studying software engineering<br>
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+<br>
+  <p align="center">Database<br></p>
+<div align="center">
+  <img align="center" alt="Sql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+</div>
