@@ -25,7 +25,7 @@ ________________________________________________________________________________
 <br>
   <p>Database<br></p>
 <div>
-  <img align="center" alt="Sql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+  <img align="center" alt="Sql" height="30" width="40" src="">
 </div>
 <br>
 _____________________________________________________________________________________________________
