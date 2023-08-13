@@ -38,6 +38,12 @@ ________________________________________________________________________________
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="ios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafapeixer}/count.svg" /></p> 
+<br>
+</div>
 _____________________________________________________________________________________________________
 <br>
 <br>
