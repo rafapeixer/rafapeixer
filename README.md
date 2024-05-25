@@ -1,7 +1,5 @@
 <br>
-Hello my name is Rafael Peixer<br>
-<br>
-Studying software engineering<br>
+Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software(UNIASSELVI) e Serviços de Cloud Computing(PUCPR).
 <br>
 _____________________________________________________________________________________________________
 <br>
