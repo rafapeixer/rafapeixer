@@ -1,21 +1,49 @@
-<br>
-Hi! I'm currently open to work as a Junior Software Engineer. I've been building full-stack SaaS platforms using React, Next.js, Node.js, and Supabase. Open to remote or relocation opportunities in the EU/US.
-<br>
-_____________________________________________________________________________________________________
-<br>
-<br>
-  <p>Setup<br></p>
-<div>
-Case Gamer NZXT H510, Mid Tower<br>
-Motherboard Asus ROG Strix B550-A Gaming, Chipset B550-A, AMD AM4<br>
-AMD Ryzen 9 5900X, 3.7GHz (4.8GHz Max Turbo), Cache 70MB, 12 Cores, 24 Threads<br>
-Water Cooler NZXT Kraken X63, 280mm, RGB<br>
-4x Crucial Ballistix 16gb Ddr4 2666mhz Cl16<br>
-2x Crucial P3 1TB PCIe M.2 2280 SSD<br>
-HD Seagate Barracuda, 10TB, 3.5´, SATA<br>
-Power Supply Corsair HX750-750W, 80 Plus Platinum, Modular<br>
-<br>
-Monitor Gamer Acer 23,6'' KG241Q FHD 144Hz<br>
-Kit Mouse and Keyboard Logitech MK235 wireless<br>
-Windows 10 Pro 22H2<br>
-</div>
+# 👋 Hey, I'm Rafael Peixer
+
+I'm a **Junior Software Engineer** from Brazil 🇧🇷 and Luxembourg 🇱🇺, passionate about building full-stack SaaS applications with modern web technologies.
+
+Currently open to remote roles (EU/US).
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Sc. in Software Engineering** – UNIASSELVI (Expected: Dec 2026)  
+- ☁️ **Postgraduate in Cloud Computing** – PUCPR (Expected: Dec 2025)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React · Next.js · Tailwind CSS · ShadCN  
+- **Backend:** Node.js · Supabase · PostgreSQL  
+- **Infra:** Docker · CI/CD · GitHub Actions · Linux  
+- **Tools:** Git · Figma · Vercel · Stripe/MercadoPago APIs
+
+---
+
+## 🚀 Projects (selected)
+
+Even though most of my work is private, here's what I've been building:
+
+- **Patrify** – Wealth management SaaS for tracking investments and assets  
+- **UnboxFiscal** – Digital fiscal address platform for freelancers and small businesses  
+- **WebSeed** – Startup funding and evaluation platform  
+- **Wemei** – ERP focused on Brazilian MEIs (microentrepreneurs)  
+- **B2B Capital** – OTC platform for buying USDT with BRL (integrated with Mercado Pago)  
+- **Foncé** – Personal brand: minimalist black shirts for entrepreneurs  
+- **Lurie Labs** – Freelance studio for SaaS and digital product development
+
+---
+
+## 🌍 Open to Work
+
+I'm looking for **Junior Software Engineer** opportunities with a focus on React, Next.js, and Node.js.  
+Available for **remote work or relocation** in the **EU or US**.
+
+📫 [LinkedIn](https://www.linkedin.com/in/rafapeixer/)  
+📂 Portfolio available upon request.
+
+---
+
+Thanks for visiting 🚀
