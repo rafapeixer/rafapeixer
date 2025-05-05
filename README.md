@@ -30,8 +30,7 @@ Even though most of my work is private, here's what I've been building:
 - **UnboxFiscal** – Digital fiscal address platform for freelancers and small businesses  
 - **WebSeed** – Startup funding and evaluation platform  
 - **Wemei** – ERP focused on Brazilian MEIs (microentrepreneurs)  
-- **B2B Capital** – OTC platform for buying USDT with BRL (integrated with Mercado Pago)  
-- **Foncé** – Personal brand: minimalist black shirts for entrepreneurs  
+- **B2B Capital** – Platform for buying USDT with BRL (integrated with OTC)  
 - **Lurie Labs** – Freelance studio for SaaS and digital product development
 
 ---
