@@ -1,5 +1,5 @@
 <br>
-Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software(UNIASSELVI) e Serviços de Cloud Computing(PUCPR).
+Hi! I'm currently open to work as a Junior Software Engineer. I've been building full-stack SaaS platforms using React, Next.js, Node.js, and Supabase. Open to remote or relocation opportunities in the EU/US.
 <br>
 _____________________________________________________________________________________________________
 <br>
