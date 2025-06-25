@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rafael Peixer
 
-I'm a **Junior Software Engineer** from Brazil 🇧🇷 and Luxembourg 🇱🇺, passionate about building full-stack SaaS applications with modern web technologies.
+I'm a **Software Engineer** from Brazil 🇧🇷 and Luxembourg 🇱🇺, passionate about building full-stack SaaS applications with modern web technologies.
 
 Currently open to remote roles (EU/US).
 
