@@ -1,4 +1,4 @@
-<h1>👋 Rafael Peixer</h1>
+<h1>Rafael Peixer</h1>
 <p><strong>Software Engineer</strong> · 🇧🇷 Brazil & 🇱🇺 Luxembourg<br>
 Open to Remote Roles in EU/US</p>
 
