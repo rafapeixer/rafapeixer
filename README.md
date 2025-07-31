@@ -15,10 +15,11 @@ Currently open to remote roles (EU/US).
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React · Next.js · Tailwind CSS · ShadCN  
-- **Backend:** Node.js · Supabase · PostgreSQL  
+- **Frontend:** React · Next.js  
+- **Backend:** Node.js · java 
+- **Banco:** PostgreSQL  
 - **Infra:** Docker · CI/CD · GitHub Actions · Linux  
-- **Tools:** Git · Figma · Vercel · Stripe/MercadoPago APIs
+- **Tools:** Git · Vercel · Stripe/MercadoPago APIs
 
 ---
 
@@ -37,7 +38,7 @@ Even though most of my work is private, here's what I've been building:
 
 ## 🌍 Open to Work
 
-I'm looking for **Junior Software Engineer** opportunities with a focus on React, Next.js, and Node.js.  
+I'm looking for **Software Engineer** opportunities with a focus on React, Next.js, and Node.js.  
 Available for **remote work or relocation** in the **EU or US**.
 
 📫 [LinkedIn](https://www.linkedin.com/in/rafapeixer/)  
