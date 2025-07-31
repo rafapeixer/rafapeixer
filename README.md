@@ -1,49 +1,45 @@
-# 👋 Hey, I'm Rafael Peixer
+Rafael Peixer
 
-I'm a **Software Engineer** from Brazil 🇧🇷 and Luxembourg 🇱🇺, passionate about building full-stack SaaS applications with modern web technologies.
+Software Engineer · 🇧🇷 Brazil & 🇱🇺 Luxembourg
+Open to Remote Roles in EU/US
 
-Currently open to remote roles (EU/US).
+🎓 Education
 
----
+B.Sc. in Software Engineering – UNIASSELVI (Expected Dec 2026)
+Postgraduate in Cloud Computing – PUCPR (Expected Dec 2025)
+🧠 Core Stack & Expertise
 
-## 🎓 Education
+Frontend: React · Next.js (App Router · SSR · CSR)
+Backend: Node.js · Java (Spring Boot)
+Database: PostgreSQL · Supabase
+DevOps & Infra: Docker · Linux · GitHub Actions · CI/CD
+Tools & APIs: Git · Vercel · Stripe · Mercado Pago · PlugNotas · RESTful APIs
 
-- 🎓 **B.Sc. in Software Engineering** – UNIASSELVI (Expected: Dec 2026)  
-- ☁️ **Postgraduate in Cloud Computing** – PUCPR (Expected: Dec 2025)
+💼 Selected Projects
 
----
+Even though most of my work is private, here are some key SaaS platforms I've built or led:
 
-## 🛠 Tech Stack
+Patrify
+Wealth management SaaS for tracking investments, net worth, and financial goals
+UnboxFiscal
+Digital fiscal address solution for freelancers and small businesses with compliance
+WebSeed
+Startup investment & evaluation platform to connect early-stage projects and investors
+Wemei
+ERP for Brazilian MEIs – automate DAS, NFSe issuance, receivables, and cash flow
+B2B Capital
+USDT OTC Platform – buy/sell crypto with BRL, including blockchain tracking & compliance
+Lurie Labs
+Product studio building custom SaaS tools for fintech, legaltech, and e-commerce
+🌍 Availability
 
-- **Frontend:** React · Next.js  
-- **Backend:** Node.js · java 
-- **Banco:** PostgreSQL  
-- **Infra:** Docker · CI/CD · GitHub Actions · Linux  
-- **Tools:** Git · Vercel · Stripe/MercadoPago APIs
+I'm currently looking for new challenges as a Software Engineer or Full-Stack Developer, with a focus on:
 
----
+React & Next.js (App Router)
+Node.js & Java
+Remote-first teams in the EU or US
+📫 Let's connect
 
-## 🚀 Projects (selected)
-
-Even though most of my work is private, here's what I've been building:
-
-- **Patrify** – Wealth management SaaS for tracking investments and assets  
-- **UnboxFiscal** – Digital fiscal address platform for freelancers and small businesses  
-- **WebSeed** – Startup funding and evaluation platform  
-- **Wemei** – ERP focused on Brazilian MEIs (microentrepreneurs)  
-- **B2B Capital** – Platform for buying USDT with BRL (integrated with OTC)  
-- **Lurie Labs** – Freelance studio for SaaS and digital product development
-
----
-
-## 🌍 Open to Work
-
-I'm looking for **Software Engineer** opportunities with a focus on React, Next.js, and Node.js.  
-Available for **remote work or relocation** in the **EU or US**.
-
-📫 [LinkedIn](https://www.linkedin.com/in/rafapeixer/)  
-📂 Portfolio available upon request.
-
----
-
-Thanks for visiting 🚀
+🔗 LinkedIn
+📂 Portfolio or project demos available upon request
+🕹 Languages: Portuguese (native), English (basic)
