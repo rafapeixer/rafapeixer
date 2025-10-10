@@ -48,28 +48,24 @@
       <small>Cloud design, deployment & automation (AWS, Azure, OpenStack, VMware), DevOps, security, data governance, microservices, containers.</small><br>
       <small><em>Skills:</em> Cloud Computing · AWS · Docker & Kubernetes · DevOps · Microservices</small>
     </li>
-
     <li>
       <strong>B.Sc. in Software Engineering</strong> — UNIASSELVI
       <em>(Expected Dec 2026)</em><br>
       <small>Software development, architecture, modern engineering practices.</small><br>
       <small><em>Skills:</em> Software Development · Web Development · JavaScript · React & Next.js · Databases</small>
     </li>
-
     <li>
       <strong>Postgraduate Lato Sensu – Executive MBA, Controllership & Corporate Finance</strong> — UNIASSELVI
       <em>(Jan 2023 – Jun 2023 · Grade: A)</em><br>
       <small>Corporate finance, cost management, strategic controllership.</small><br>
       <small><em>Skills:</em> Corporate Finance · Financial Analysis · Strategic Planning · Budgeting · Cost Management</small>
     </li>
-
     <li>
       <strong>Postgraduate Lato Sensu, Accounting Auditing & Controllership</strong> — UNIASSELVI
       <em>(Jul 2022 – Dec 2022 · Grade: A)</em><br>
       <small>Financial auditing, internal controls, risk management, regulatory frameworks.</small><br>
       <small><em>Skills:</em> Auditing · Internal Controls · Financial Reporting · Risk Management · Accounting Principles</small>
     </li>
-
     <li>
       <strong>Bachelor’s Degree, Accounting Sciences</strong> — UNIASSELVI
       <em>(2017 – Jun 2022 · Grade: B)</em><br>
