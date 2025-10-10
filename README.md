@@ -1,48 +1,100 @@
-<h1>Rafael Peixer</h1>
-<p><strong>Software Engineer</strong> · 🇧🇷 Brazil & 🇱🇺 Luxembourg<br>
-Open to Remote Roles in EU/US</p>
+<header>
+  <h1>Rafael Peixer</h1>
+  <p><strong>Software Engineer (Full-Stack)</strong><br>
+     🇧🇷 Brazil &middot; 🇱🇺 Luxembourg (EU citizenship) &middot; Open to remote (EU/US)
+  </p>
+</header>
 
 <hr>
 
-<h2>🎓 Education</h2>
-<ul>
-  <li><strong>B.Sc. in Software Engineering</strong> – UNIASSELVI (Expected Dec 2026)</li>
-  <li><strong>Postgraduate in Cloud Computing</strong> – PUCPR (Expected Dec 2025)</li>
-</ul>
+<section>
+  <h2>🔎 Summary</h2>
+  <p>
+    Full-stack engineer focado em fintech e SaaS com alto padrão de compliance.
+    Experiência em React/Next.js, Node.js e Java (Spring), bancos relacionais e pipelines de CI/CD.
+  </p>
+</section>
 
-<h2>🧠 Core Stack & Expertise</h2>
-<ul>
-  <li><strong>Frontend:</strong> React · Next.js (App Router · SSR · CSR)</li>
-  <li><strong>Backend:</strong> Node.js · Java (Spring Boot)</li>
-  <li><strong>Database:</strong> PostgreSQL · Supabase</li>
-  <li><strong>DevOps & Infra:</strong> Docker · Linux · GitHub Actions · CI/CD</li>
-  <li><strong>Tools & APIs:</strong> Git · Vercel · Stripe · Mercado Pago · PlugNotas · RESTful APIs</li>
-</ul>
+<section>
+  <h2>🧠 Core Stack & Expertise</h2>
+  <ul>
+    <li><strong>Frontend:</strong> React &middot; Next.js (App Router, SSR, CSR)</li>
+    <li><strong>Backend:</strong> Node.js &middot; Java (Spring Boot)</li>
+    <li><strong>Databases:</strong> PostgreSQL &middot; MySQL</li>
+    <li><strong>DevOps &amp; CI/CD:</strong> Docker &middot; GitHub Actions &middot; Linux</li>
+    <li><strong>Integrations &amp; APIs:</strong> Stripe &middot; Mercado Pago &middot; PlugNotas &middot; RESTful APIs</li>
+    <li><strong>Tools &amp; Platforms:</strong> Git &middot; Vercel</li>
+  </ul>
+</section>
 
-<h2>💼 Selected Projects</h2>
-<p>Even though most of my work is private, here are some key SaaS platforms I've built or led:</p>
-<ul>
-  <li><strong>Patrify</strong> – Wealth management SaaS for tracking investments, net worth, and financial goals</li>
-  <li><strong>UnboxFiscal</strong> – Digital fiscal address solution for freelancers and small businesses with compliance</li>
-  <li><strong>WebSeed</strong> – Startup investment & evaluation platform to connect early-stage projects and investors</li>
-  <li><strong>Wemei</strong> – ERP for Brazilian MEIs – automate DAS, NFSe issuance, receivables, and cash flow</li>
-  <li><strong>B2B Capital</strong> – USDT OTC Platform – buy/sell crypto with BRL, including blockchain tracking & compliance</li>
-  <li><strong>Lurie Labs</strong> – Product studio building custom SaaS tools for fintech, legaltech, and e-commerce</li>
-</ul>
+<section>
+  <h2>💼 Selected Projects</h2>
+  <ul>
+    <li><strong>Patrify</strong> — Wealth management SaaS (investimentos, patrimônio, metas)</li>
+    <li><strong>UnboxFiscal</strong> — Endereço fiscal digital com regras de compliance</li>
+    <li><strong>WebSeed</strong> — Plataforma de avaliação e captação para startups early-stage</li>
+    <li><strong>Wemei</strong> — ERP para MEI (DAS, NFS-e, recebíveis, caixa)</li>
+    <li><strong>B2B Capital</strong> — OTC USDT BRL com trilha de conformidade</li>
+    <li><strong>Lurie Labs</strong> — Estúdio de produto (fintech, legaltech, e-commerce)</li>
+  </ul>
+</section>
 
-<h2>🌍 Availability</h2>
-<p>I'm currently looking for new challenges as a <strong>Software Engineer</strong> or <strong>Full-Stack Developer</strong>, with a focus on:</p>
-<ul>
-  <li>React & Next.js (App Router)</li>
-  <li>Node.js & Java</li>
-  <li>Remote-first teams in the EU or US</li>
-</ul>
+<section>
+  <h2>🎓 Education</h2>
+  <ul>
+    <li>
+      <strong>Postgraduate Lato Sensu, Cloud Computing Architecture & Services Engineering</strong> — Pontifícia Universidade Católica do Paraná (PUCPR)
+      <em>(Completed 2025)</em><br>
+      <small>Cloud design, deployment & automation (AWS, Azure, OpenStack, VMware), DevOps, security, data governance, microservices, containers.</small><br>
+      <small><em>Skills:</em> Cloud Computing · AWS · Docker & Kubernetes · DevOps · Microservices</small>
+    </li>
 
-<h2>📫 Let's connect</h2>
-<ul>
-  <li>🔗 <a href="https://www.linkedin.com/in/rafapeixer/" target="_blank">LinkedIn</a></li>
-  <li>📂 Portfolio or project demos available upon request</li>
-  <li>🕹 Languages: Portuguese (native), English (fluent)</li>
-</ul>
+    <li>
+      <strong>B.Sc. in Software Engineering</strong> — UNIASSELVI
+      <em>(Expected Dec 2026)</em><br>
+      <small>Software development, architecture, modern engineering practices.</small><br>
+      <small><em>Skills:</em> Software Development · Web Development · JavaScript · React & Next.js · Databases</small>
+    </li>
+
+    <li>
+      <strong>Postgraduate Lato Sensu – Executive MBA, Controllership & Corporate Finance</strong> — UNIASSELVI
+      <em>(Jan 2023 – Jun 2023 · Grade: A)</em><br>
+      <small>Corporate finance, cost management, strategic controllership.</small><br>
+      <small><em>Skills:</em> Corporate Finance · Financial Analysis · Strategic Planning · Budgeting · Cost Management</small>
+    </li>
+
+    <li>
+      <strong>Postgraduate Lato Sensu, Accounting Auditing & Controllership</strong> — UNIASSELVI
+      <em>(Jul 2022 – Dec 2022 · Grade: A)</em><br>
+      <small>Financial auditing, internal controls, risk management, regulatory frameworks.</small><br>
+      <small><em>Skills:</em> Auditing · Internal Controls · Financial Reporting · Risk Management · Accounting Principles</small>
+    </li>
+
+    <li>
+      <strong>Bachelor’s Degree, Accounting Sciences</strong> — UNIASSELVI
+      <em>(2017 – Jun 2022 · Grade: B)</em><br>
+      <small>Accounting, financial reporting, taxation, auditing (Brazilian standards).</small><br>
+      <small><em>Skills:</em> Financial Accounting · Taxation · Auditing · Financial Reporting · Cost Accounting</small>
+    </li>
+  </ul>
+</section>
+
+
+<section>
+  <h2>🌍 Availability</h2>
+  <ul>
+    <li>Funções: <strong>Software Engineer</strong> / <strong>Full-Stack Developer</strong></li>
+    <li>Stack foco: React &amp; Next.js &middot; Node.js &amp; Java</li>
+    <li>Modelo: Remoto, times na EU/US</li>
+  </ul>
+</section>
+
+<section>
+  <h2>📫 Let’s connect</h2>
+  <ul>
+    <li>🔗 <a href="https://www.linkedin.com/in/rafapeixer/" target="_blank" rel="noopener">LinkedIn</a></li>
+    <li>🗣️ Languages: Portuguese (native) &middot; English (fluent)</li>
+  </ul>
+</section>
 
 <p>Thanks for visiting 🚀</p>
