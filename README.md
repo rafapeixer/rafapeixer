@@ -1,96 +1,108 @@
-<header>
-  <h1>Rafael Peixer</h1>
-  <p><strong>Software Engineer (Full-Stack)</strong><br>
-     🇧🇷 Brazil &middot; 🇱🇺 Luxembourg (EU citizenship) &middot; Open to remote (EU/US)
-  </p>
-</header>
+## Rafael Peixer — Engenheiro de Software
 
-<hr>
+**Sistemas Bancários & Cripto | Pagamentos · Risco · Compliance (KYC/KYB/AML)**
 
-<section>
-  <h2>🔎 Summary</h2>
-  <p>
-    Full-stack engineer focado em fintech e SaaS com alto padrão de compliance.
-    Experiência em React/Next.js, Node.js e Java (Spring), bancos relacionais e pipelines de CI/CD.
-  </p>
-</section>
+Projeto e construo infraestrutura financeira onde a precisão não é opcional.
+Atuo na intersecção entre engenharia de software e finanças reguladas —
+rails de pagamento, mesas OTC de cripto, motores de compliance fiscal
+e produtos SaaS operando sob regulação do Banco Central do Brasil.
 
-<section>
-  <h2>🧠 Core Stack & Expertise</h2>
-  <ul>
-    <li><strong>Frontend:</strong> React &middot; Next.js (App Router, SSR, CSR)</li>
-    <li><strong>Backend:</strong> Node.js &middot; Java (Spring Boot)</li>
-    <li><strong>Databases:</strong> PostgreSQL &middot; MySQL</li>
-    <li><strong>DevOps &amp; CI/CD:</strong> Docker &middot; GitHub Actions &middot; Linux</li>
-    <li><strong>Integrations &amp; APIs:</strong> Stripe &middot; Mercado Pago &middot; PlugNotas &middot; RESTful APIs</li>
-    <li><strong>Tools &amp; Platforms:</strong> Git &middot; Vercel</li>
-  </ul>
-</section>
+---
 
-<section>
-  <h2>💼 Selected Projects</h2>
-  <ul>
-    <li><strong>Patrify</strong> — Wealth management SaaS (investimentos, patrimônio, metas)</li>
-    <li><strong>UnboxFiscal</strong> — Endereço fiscal digital com regras de compliance</li>
-    <li><strong>WebSeed</strong> — Plataforma de avaliação e captação para startups early-stage</li>
-    <li><strong>Wemei</strong> — ERP para MEI (DAS, NFS-e, recebíveis, caixa)</li>
-    <li><strong>B2B Capital</strong> — OTC USDT BRL com trilha de conformidade</li>
-    <li><strong>Lurie Labs</strong> — Estúdio de produto (fintech, legaltech, e-commerce)</li>
-  </ul>
-</section>
+### Rails Financeiros que Construo
 
-<section>
-  <h2>🎓 Education</h2>
-  <ul>
-    <li>
-      <strong>Postgraduate Lato Sensu, Cloud Computing Architecture & Services Engineering</strong> — Pontifícia Universidade Católica do Paraná (PUCPR)
-      <em>(Completed 2025)</em><br>
-      <small>Cloud design, deployment & automation (AWS, Azure, OpenStack, VMware), DevOps, security, data governance, microservices, containers.</small><br>
-      <small><em>Skills:</em> Cloud Computing · AWS · Docker & Kubernetes · DevOps · Microservices</small>
-    </li>
-    <li>
-      <strong>B.Sc. in Software Engineering</strong> — UNIASSELVI
-      <em>(Expected Dec 2026)</em><br>
-      <small>Software development, architecture, modern engineering practices.</small><br>
-      <small><em>Skills:</em> Software Development · Web Development · JavaScript · React & Next.js · Databases</small>
-    </li>
-    <li>
-      <strong>Postgraduate Lato Sensu – Executive MBA, Controllership & Corporate Finance</strong> — UNIASSELVI
-      <em>(Jan 2023 – Jun 2023 · Grade: A)</em><br>
-      <small>Corporate finance, cost management, strategic controllership.</small><br>
-      <small><em>Skills:</em> Corporate Finance · Financial Analysis · Strategic Planning · Budgeting · Cost Management</small>
-    </li>
-    <li>
-      <strong>Postgraduate Lato Sensu, Accounting Auditing & Controllership</strong> — UNIASSELVI
-      <em>(Jul 2022 – Dec 2022 · Grade: A)</em><br>
-      <small>Financial auditing, internal controls, risk management, regulatory frameworks.</small><br>
-      <small><em>Skills:</em> Auditing · Internal Controls · Financial Reporting · Risk Management · Accounting Principles</small>
-    </li>
-    <li>
-      <strong>Bachelor’s Degree, Accounting Sciences</strong> — UNIASSELVI
-      <em>(2017 – Jun 2022 · Grade: B)</em><br>
-      <small>Accounting, financial reporting, taxation, auditing (Brazilian standards).</small><br>
-      <small><em>Skills:</em> Financial Accounting · Taxation · Auditing · Financial Reporting · Cost Accounting</small>
-    </li>
-  </ul>
-</section>
+**PIX Rail** — Pagamentos instantâneos e liquidação
+Pix recebimento/envio, QR Code dinâmico (Cobrança), split de pagamentos,
+webhooks em tempo real, liquidação financeira e conciliação.
+Participante Direto do SPI com Conta PI no Banco Central.
 
+**Banking Rail** — Contas digitais e multi-moeda
+Criação de contas e subcontas, gestão de saldo e extrato,
+transferências internas, carteiras multi-moeda, gestão de usuários.
 
-<section>
-  <h2>🌍 Availability</h2>
-  <ul>
-    <li>Funções: <strong>Software Engineer</strong> / <strong>Full-Stack Developer</strong></li>
-    <li>Stack foco: React &amp; Next.js &middot; Node.js &amp; Java</li>
-    <li>Modelo: Remoto, times na EU/US</li>
-  </ul>
-</section>
+**Card Rail** — Emissão e processamento de cartões
+Emissão Visa e Mastercard (PCDS direto), motor de autorização
+em tempo real, liquidação e settlement, gestão de ciclo de vida do cartão.
 
-<section>
-  <h2>📫 Let’s connect</h2>
-  <ul>
-    <li>🔗 <a href="https://www.linkedin.com/in/rafapeixer/" target="_blank" rel="noopener">LinkedIn</a></li>
-    <li>🗣️ Languages: Portuguese (native) &middot; English (fluent)</li>
-  </ul>
-</section>
+**Crypto Rail** — Infraestrutura blockchain e liquidez OTC
+Geração de wallets, depósitos e saques on-chain, custódia de ativos,
+mesa de liquidez OTC, monitoramento on-chain com motor KYT próprio.
 
-<p>Thanks for visiting 🚀</p>
+**Credit Rail** — Ciclo completo de crédito digital
+Originação e análise de risco, scoring de crédito, contratos e parcelamento,
+gestão de carteira, cobrança e inadimplência.
+
+**FX Rail** — Câmbio global e remessas em tempo real
+Conversão de moedas em tempo real, roteamento inteligente de FX,
+gestão de liquidez, hedge cambial, settlement multi-moeda.
+
+---
+
+### Camada Regulatória & Compliance
+
+- Regulação Bacen — SCD Direto, IP, Open Finance
+- Pipelines KYC / KYB / AML com motor próprio
+- Scoring de risco e relatórios regulatórios
+- Trilhas de auditoria e controles internos
+- Conformidade LGPD
+- PCI-DSS (Card Rail)
+
+---
+
+### Stack
+
+**Linguagens & Frameworks**
+`Java (Spring Boot)` · `Node.js` · `TypeScript` · `React` · `Next.js`
+
+**Sistema Financeiro Brasileiro (SPB / BCB)**
+`RSFN` · `SPI` · `STR` · `SELIC` · `DICT`
+`CIP / SITRAF / SILOC`
+`Pix Direto (Participante Direto)` · `SCD Direto`
+`ISPB` · `Conta PI (BCB)` · `Catálogo de Serviços do SFN`
+
+**Redes de Cartão**
+`Mastercard PCDS` · `Visa DPS / VisaNet`
+`ISO 8583` · `EMV 3-D Secure (3DS2)`
+`Motor de Autorização Próprio` · `BIN Management`
+`Settlement & Reconciliation Engine`
+
+**Conectividade & Mensageria**
+`IBM MQ (mensageria RSFN)` · `Apache Kafka` · `AWS SQS`
+`ISO 20022`
+
+**Blockchain & Cripto**
+`EVM` · `TRON`
+`Infraestrutura de Custódia Própria`
+`Motor KYT Próprio` · `Monitoramento On-chain`
+
+**Bancos de Dados & Armazenamento**
+`AWS Aurora (PostgreSQL)` · `Redis`
+
+**Cloud & Infraestrutura**
+`AWS EC2` · `AWS EKS` · `AWS S3`
+`AWS KMS` · `AWS IAM` · `AWS Secrets Manager` · `AWS CloudWatch`
+`AWS API Gateway` · `AWS CloudFront` · `AWS Lambda`
+`AWS WAF` · `AWS Shield`
+`Docker` · `Kubernetes` · `Terraform` · `GitHub Actions` · `Linux`
+
+**Segurança & Compliance**
+`mTLS` · `HSM (gestão de chaves / PIN block)`
+`ICP-Brasil / PKI` · `PCI-DSS`
+`Motor KYC/KYB/AML Próprio`
+`Motor de Scoring de Crédito Próprio`
+`Motor de Roteamento FX Próprio`
+`LGPD`
+
+---
+
+### Formação
+
+Combinação intencional de engenharia e finanças.
+Graduação em **Engenharia de Software**, pós-graduação em
+**Arquitetura Cloud Computing** (PUCPR) e **Ciências Contábeis**,
+com formação executiva em **Controladoria & Finanças Corporativas**.
+
+Essa base me permite raciocinar sobre sistemas regulados pelos dois lados:
+o código que os executa e o framework de compliance que os governa.
+
+🇧🇷 Brasil · 🇱🇺 Luxemburgo (cidadania EU) · Remoto · Times EU/US
