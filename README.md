@@ -46,7 +46,8 @@ Base was born from the parts that kept repeating across the other three: every p
 
 - **4 years** shipping SaaS end to end at Lurie Labs (2021 – now)
 - **14 years** leading IT infrastructure and security projects for corporate clients (2007 – 2021)
-- Postgraduate in Cloud Computing (PUCPR) · B.Sc. Software Engineering (in progress) · B.Sc. Accounting + MBA in Corporate Finance
+- Postgraduate in Cloud Computing (PUCPR) · B.Sc. Software Engineering (in progress)
+- B.Sc. Accounting · Postgraduate in Accounting Auditing & Controllership · Executive MBA in Controllership & Corporate Finance
 
 The finance background means I understand the business side of the software I build.
 
@@ -68,7 +69,7 @@ Fundador da [Lurie Labs](https://lurielabs.com.br), onde lancei três SaaS e ago
 
 **Produtos em produção:** Base (plataforma SaaS multi-tenant), Wemei (ERP para MEI), Patrify (gestão de patrimônio), Unboxfiscal (endereço fiscal digital).
 
-**Histórico:** 4 anos lançando SaaS na Lurie Labs · 14 anos liderando projetos de infraestrutura e segurança de TI · Pós em Cloud Computing (PUCPR) · Eng. de Software (em andamento) · Ciências Contábeis + MBA em Finanças.
+**Histórico:** 4 anos lançando SaaS na Lurie Labs · 14 anos liderando projetos de infraestrutura e segurança de TI · Pós em Cloud Computing (PUCPR) · Eng. de Software (em andamento) · Ciências Contábeis · Pós em Auditoria Contábil e Controladoria · MBA em Controladoria e Finanças Corporativas.
 
 Aberto a vagas remotas backend / full-stack com times europeus. Cidadania europeia (Luxemburgo).
 
