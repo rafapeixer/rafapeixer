@@ -1,6 +1,6 @@
 # Rafael Peixer
 
-**Software Engineer · Go · PostgreSQL · AWS · React/Next.js**
+**Software Engineer · Go · PostgreSQL · AWS · React**
 
 Based in Brazil (UTC-3, 4–5h overlap with CET) · EU citizen (Luxembourg), no visa needed · Remote
 
